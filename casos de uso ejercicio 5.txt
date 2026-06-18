@@ -1,0 +1,18 @@
+Un lector de archivos es una herramienta o función que permite abrir y leer el contenido de distintos tipos de archivos, ya sea en una aplicación de software o mediante código. Sus casos de uso son muy variados y se pueden aplicar en contextos de desarrollo, análisis de datos o gestión de contenido. Algunos ejemplos comunes incluyen:
+1. Procesamiento de datos en aplicaciones y scripts
+Lectura de archivos de texto: Para extraer información de logs, archivos de configuración o datos en formato CSV/TSV.
+Parsing de archivos JSON o XML: Permite que aplicaciones intercambien datos estructurados o configuren elementos dinámicamente.
+2. Análisis y transformación de datos
+Lectura de grandes volúmenes de información para convertirla en estructuras de datos útiles (listas, diccionarios, DataFrames en Python con Pandas).
+Filtrado de información relevante, como extraer líneas con ciertas palabras clave en archivos de logs.
+3. Automatización de tareas y ETL (Extract, Transform, Load)
+Los lectores de archivos se utilizan en procesos de automatización para cargar archivos desde carpetas, procesarlos y guardarlos en bases de datos o sistemas de almacenamiento.
+Ejemplo: automatizar la importación diaria de reportes de ventas en una aplicación de análisis financiero.
+4. Visualización y generación de reportes
+Se puede usar un lector de archivos para extraer datos históricos que luego se representarán gráficamente o se integrarán en dashboards.
+Ejemplo: lectura de CSV de sensores IoT para monitoreo de temperatura y humedad.
+5. Integración con otras aplicaciones
+Algunos sistemas necesitan leer archivos de entrada enviados por usuarios o descargados de otras plataformas.
+Casos típicos: cargar documentos en ERPs, importar plantillas en sistemas educativos, o sincronizar archivos XML/JSON entre sistemas.
+6. Validación y control de calidad de datos
+Leer archivos permite verificar consistencia, formatos y valores antes de almacenarlos o procesarlos en sistemas críticos.
